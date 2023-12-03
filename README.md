@@ -1,6 +1,6 @@
 ## Getting Started with Push UI in nextjs
 
-To run locallay:
+To run locally:
 
 ```bash
 git clone https://github.com/pritipsingh/next-chat-push.git
